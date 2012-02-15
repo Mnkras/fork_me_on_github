@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btForkMeOnGithub">
+		<field name="bID" type="I">
+			<key />
+			<unsigned />
+		</field>
+		
+		<field name="projecturl" type="X"></field>
+		
+		<field name="position" type="X"></field>
+		
+		<field name="color" type="X"></field>
+
+	</table>
+</schema>
