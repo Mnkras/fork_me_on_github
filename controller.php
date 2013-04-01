@@ -17,7 +17,7 @@ class ForkMeOnGithubPackage extends Package {
 
 	protected $pkgHandle = 'fork_me_on_github';
 	protected $appVersionRequired = '5.5.0';
-	protected $pkgVersion = '1.1';
+	protected $pkgVersion = '1.2';
 	
 	public function getPackageName() {
 		return t("Fork Me on GitHub");
